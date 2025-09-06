@@ -1,45 +1,31 @@
-# Hi, I'm Loay 👋
+# 👋 Hi, I'm Loay!
 
-![Profile Banner](https://raw.githubusercontent.com/loaychlih/loaychlih/main/banner.png) <!-- Optional: you can create a banner -->
-
-## About Me
-I'm an **AI Engineer** with a Master’s in **Natural Language Processing** from the University of Nantes and a degree in Computer Science Engineering from ENSIAS.  
-I recently completed my final-year internship at **Veepee**, where I worked on benchmarking and evaluating **Large Language Models (LLMs)** for real-world business use cases.  
-Passionate about **Generative AI**, **NLP**, and building **scalable AI tools** that solve practical problems.
+👨‍💻 AI Engineer | NLP & Generative AI Enthusiast  
+🎓 Master’s in Natural Language Processing, University of Nantes  
+💼 Computer Science Engineering Degree, ENSIAS  
+💡 Passionate about building scalable AI tools and solving real-world problems  
 
 ---
 
-## 🛠️ Technologies & Tools
-<div>
-  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img align="left" alt="PyTorch" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" />
-  <img align="left" alt="Transformers" width="40px" src="https://cdn.worldvectorlogo.com/logos/huggingface-1.svg" />
-  <img align="left" alt="spaCy" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Spacy-logo.svg" />
-  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="left" alt="FastAPI" width="40px" src="https://raw.githubusercontent.com/tiangolo/fastapi/master/docs/img/fastapi-logo.png" />
-  <img align="left" alt="PostgreSQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" />
-  <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" />
-  <img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-</div>
-<div style="clear: both;"></div>
+# 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Transformers](https://img.shields.io/badge/transformers-000000?style=for-the-badge&logo=huggingface&logoColor=F7DF1E)
+![spaCy](https://img.shields.io/badge/spaCy-1A1A1A?style=for-the-badge&logo=spacy&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-## 📈 Stats
-![Loay's GitHub stats](https://github-readme-stats.vercel.app/api?username=loaychlih&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=loaychlih&layout=compact&theme=radical)
+# 📫 Contact Me
 
----
-
-## 📫 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/loay-chlih/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://loaychlih.github.io/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
-  </a>
-  <a href="mailto:loay@example.com" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loay-chlih/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loaychlih.github.io/)  
+[![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loay@example.com)
