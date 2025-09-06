@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Loay 👋
 
-<!--
-**loaychlih/loaychlih** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an **AI Engineer** with a Master’s in **Natural Language Processing** from the University of Nantes and a degree in Computer Science Engineering from ENSIAS.  
+I recently completed my final-year internship at **Veepee**, where I worked on benchmarking and evaluating **Large Language Models (LLMs)** for real-world business use cases.  
+Passionate about **Generative AI**, NLP, and building scalable AI tools that solve practical problems.
 
-Here are some ideas to get you started:
+## Technologies
+- **Languages & Frameworks:** Python, TypeScript, React, FastAPI  
+- **Machine Learning & NLP:** PyTorch, Transformers, spaCy, Hugging Face  
+- **Databases & Tools:** PostgreSQL, Redis, Docker, Git, VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Socials
+- [LinkedIn]([https://www.linkedin.com/in/your-linkedin](https://www.linkedin.com/in/loay-chlih/))  
+- [Portfolio](https://loaychlih.github.io/)
