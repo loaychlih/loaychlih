@@ -50,7 +50,7 @@
 
 # 📫 Contact Me
 
-Feel free to reach out to me through LinkedIn or via email. I'm always open to discussing new projects, collaborations, or opportunities in data science and MLOps.
+Feel free to reach out to me through LinkedIn or via email. I'm always open to discussing new projects, collaborations, or opportunities in GenAi and Data Science.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/loay-chlih/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://loaychlih.github.io/)  
